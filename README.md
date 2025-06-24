@@ -33,7 +33,7 @@ A planilha possibilita ao usuário realizar previsões financeiras, automatizand
 ![Tela inicial da planilha](investimentoprint.jpg)  
 *Legenda: Tela inicial*
 
-![Exemplo de simulação de perfil](print2.png)  
+![Exemplo de simulação de perfil](perfil.jpg)  
 *Legenda: Simulação para perfil Moderado*
 
 ## Observações
